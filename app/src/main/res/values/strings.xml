@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Compose-final</string>
+    <string name="description">Hero Description</string>
+    <string name="menu_home">Home</string>
+    <string name="home_page">Home Page</string>
+    <string name="menu_about">Profile</string>
+    <string name="about_page">Profile Page</string>
+    <string name="myprofile">My Profile</string>
+    <string name="full_name">Budi Nurcahyadi</string>
+    <string name="email_address">didinrchyd@gmail.com</string>
+    <string name="search_bar">Search here</string>
+</resources>
